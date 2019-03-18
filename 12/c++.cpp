@@ -10,3 +10,5 @@ int main ()
 	cout <<'\nafter swapping.",, endl;
 	cout <<"a="<<a<<",b=<<B<<end1;
 
+	return 0;
+}`
